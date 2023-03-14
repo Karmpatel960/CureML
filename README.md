@@ -1,10 +1,10 @@
 ![CureML-removebg-preview](https://user-images.githubusercontent.com/96860884/225073856-decd48e2-fa3e-4588-87b0-b1035f35e9dd.png)
 
-Hackathon Project for gfg
+CureML will help patient and doctor to analyze case with its UI UX and make process easy for both doctor and patient and it also help doctor to analyze case with cureML Modal.
 ---
 ## Requirements
 
-For development, you will only need Node.js and a node global package, Yarn, installed in your environement.
+For development, you will only need Node.js and a node global package, npm, installed in your environement.
 
 ### Node
 - #### Node installation on Windows
@@ -35,7 +35,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
     $ npm install npm -g
 
 ###
-### Yarn installation
+### npm installation
   After installing node, this project will need yarn too, so just run the following command.
 
       $ npm install -g yarn
@@ -44,25 +44,18 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone
-    $ cd PROJECT_TITLE
-    $ yarn install
-
-## Configure app
-
-Open `.file` then edit it with your settings. You will need:
-
-- A setting;
-- Another setting;
-- One more setting;
+    $ git clone www.github.com/Karmpatel960/CureML
+    $ cd cureML
+    $ npm install
 
 ## Running the project
 
-    $ yarn start
+    $ npm start
 
 ## Simple build for production
 
-    $ yarn build
+    $ npm build
 
 ---
+# WebPage Wireframe
 WireFrameLink : https://app.uizard.io/p/f19f1d9d
