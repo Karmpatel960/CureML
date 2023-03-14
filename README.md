@@ -1,4 +1,5 @@
-# CureML
+![CureML-removebg-preview](https://user-images.githubusercontent.com/96860884/225073856-decd48e2-fa3e-4588-87b0-b1035f35e9dd.png)
+
 Hackathon Project for gfg
 ---
 ## Requirements
