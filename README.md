@@ -30,11 +30,7 @@ If the installation was successful, you should be able to run the following comm
     $ npm --version
     6.1.0
 
-If you need to update `npm`, you can make it using `npm`! Cool right? After running the following command, just open again the command line and be happy.
 
-    $ npm install npm -g
-
-###
 ### npm installation
   After installing node, this project will need yarn too, so just run the following command.
 
