@@ -1,8 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 
+
 function App() {
   return (
+    
     <div className="App">
       <header className="header">
 <img src="/CureML__1_-removebg-preview.png" alt="Example image" />
@@ -28,6 +30,19 @@ function App() {
           <img src="/92812-business-presentation-unscreen.gif" alt="Example image" />
         </div>
       </main>
+      <logo>
+  <p>       Connect With Us</p>
+  <ul>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+
+ <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+<a href="https://www.facebook.com/"><i class="fab fa-facebook"></i></a>
+<a href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
+<a href="https://www.linkedin.com/"><i class="fab fa-linkedin"></i></a>
+<a href="https://www.Google.com/"><i class="fab fa-google"></i></a>
+  </ul>
+</logo>
+
       <footer>
         <p>&copy; 2023 CureML. All rights reserved.</p>
       </footer>

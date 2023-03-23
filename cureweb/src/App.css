@@ -135,4 +135,38 @@ footer {
   margin-top: 50px;
 }
 
+.logo p{
+  display: flex;
+  justify-content: center;
+}
+
+logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+
+a {
+  margin: 0 35px;
+  color: #000;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+a:hover {
+  color: #333;
+}
+
+i {
+  font-size: 30px;
+}
 
