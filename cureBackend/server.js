@@ -1,13 +1,14 @@
-import express from "express"
-import cors from "cors"
-import clients from "./api/router/client.js"
+import express from "express";
+import cors from "cors";
+import restaurantRoutes from "./api/router/client.js";
 
-const app = express()
+const app = express();
 
-app.use(cors())
-app.use(express.json())
+app.use(cors());
+app.use(express.json());
 
-app.use("/api/client", clients)
-app.use("*", (req, res) => res.status(404).json({ error: "not found"}))
+app.use("/", restaurantRoutes);
 
-export default app
+app.use("*", (req, res) => res.status(404).json({ error: "not found" }));
+
+export default app;

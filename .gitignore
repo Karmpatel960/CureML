@@ -5,7 +5,7 @@
 /cureBackend/node_modules
 /.pnp
 .pnp.js
-/.env
+/cureBackend/.env
 # testing
 /coverage
 
