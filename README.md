@@ -1,6 +1,8 @@
 ![CureML-removebg-preview](https://user-images.githubusercontent.com/96860884/225073856-decd48e2-fa3e-4588-87b0-b1035f35e9dd.png)
 
 CureML will help patient and doctor to analyze case with its UI UX and make process easy for both doctor and patient and it also help doctor to analyze case with cureML Modal.
+
+CureML help to make case analyzing easier for both patients and doctors by providing a straightforward UI combined with ML tools that speed up the process.
 ---
 ## Requirements
 
@@ -52,6 +54,30 @@ If the installation was successful, you should be able to run the following comm
 
     $ npm build
 
+-----
+
+# Phase 1
+- Creating Wireframes
+- Creating E/R Diagram
+- Initial Setup
+- Creating Main Page
+- Creating User Page
+
 ---
+# Phase 2
+- Creating Data Set Framework
+- Generating ML Model Using Vertex AI
+- Integrating Google Cloud with the database and training the ML Model with AMD Instance
+- Connecting Backend with MongoDB and Express
+- Creating React Frontend
+
+---
+# Phase 3
+- Connecting Backend with Frontend React JS
+- Creating Admin Side
+- Finalizing Frontend
+
+---
+
 # WebPage Wireframe
 WireFrameLink : https://app.uizard.io/p/f19f1d9d
