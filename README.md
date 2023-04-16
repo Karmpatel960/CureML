@@ -57,15 +57,15 @@ If the installation was successful, you should be able to run the following comm
 -----
 
 # Phase 1
-- Creating Wireframes
-- Creating E/R Diagram
-- Initial Setup
-- Creating Main Page
-- Creating User Page
+- Creating Wireframes ✓
+- Creating E/R Diagram ✓
+- Initial Setup ✓
+- Creating Main Page ✓
+- Creating User Page ✓
 
 ---
 # Phase 2
-- Creating Data Set Framework
+- Creating Data Set Framework ✓
 - Generating ML Model Using Vertex AI
 - Integrating Google Cloud with the database and training the ML Model with AMD Instance
 - Connecting Backend with MongoDB and Express
